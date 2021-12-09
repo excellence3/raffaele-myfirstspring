@@ -1,0 +1,6 @@
+package it.ntt.javaproject1;
+
+public interface Coach {
+    String getDailyWorkout();
+    
+}
